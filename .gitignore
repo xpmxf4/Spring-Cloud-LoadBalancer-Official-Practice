@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Maven files
+target/
+
+# IDE files (IntelliJ IDEA and Eclipse)
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temp files
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Test reports
+test-report/
